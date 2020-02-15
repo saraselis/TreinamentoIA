@@ -1,0 +1,15 @@
+Esse dataset foi desenvolvido pela Corpus, então fica aqui, o merecimento a
+este belo trabalho.
+
+Neste link vocês encontram o repositório deste dataset com algumas informações
+à mais como links para a tese de doutorado dele (que é sobre fake news):
+https://github.com/roneysco/Fake.br-Corpus
+
+Neste link temos um pouco mais sobre processamento de texto (melhor canal de DS BR):
+https://www.youtube.com/watch?v=qYtxmv7KdZY&t=230s
+
+E aqui vocês encontram um TCC que fala mais sobre classificação de FAKE NEWS:
+Divirtam-se!
+http://ufrr.br/computacao/index.php?option=com_phocadownload&view=category&download=231:classi-cacao-de-fake-news-utilizando-algoritmos-de-aprendizado-de-maquina-e-aprendizado-profundo&id=27:tccs-definidos-2019-1&Itemid=261
+
+
