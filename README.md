@@ -1,4 +1,3 @@
 # TreinamentoIA
-Repositório com a atividade avaliativa do Hackaton de IA.
+Repositório com a atividade avaliativa e apresentação da aula que ministrei sobre Machine Learning para o terceiro Hackaton de IA da Stefanini.
 
-* As regras para o envio da atividade estão dentro do Jupyter.
